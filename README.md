@@ -1,13 +1,8 @@
-# Курс "Глубинное обучение (ГО) 1 / Введение в ГО" на ФКН ВШЭ
+# Курс "Глубинное обучение (ГО) 1 / Введение в ГО"
 
 <p align="center">
   <img src="image.jpg" width="50%"/>
 </p>
-
-## Версии курса прошлых лет
-
-* [2021-2022](https://github.com/isadrtdinov/intro-to-dl-hse/tree/2021-2022)
-* [2022-2023](https://github.com/isadrtdinov/intro-to-dl-hse/tree/2022-2023)
 
 ## Полезные ссылки
 
